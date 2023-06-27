@@ -1,1 +1,1 @@
-# learnig-management-system
+# learning-management-system
